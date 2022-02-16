@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding Summary of i-class derivation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-255-physics-of-rock-climbing-spring-2006/11184328f64ad8e19639b52b2a07b2fa_MITES_255S06_rpe_osillmdel.pdf
+file: /media/courses/es-255-physics-of-rock-climbing-spring-2006/11184328f64ad8e19639b52b2a07b2fa_MITES_255S06_rpe_osillmdel.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Rope Oscillation Model
 uid: 11184328-f64a-d8e1-9639-b52b2a07b2fa
