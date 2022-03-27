@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 49e6e1d0-e3a3-2b42-e95b-6c3f6ccb2065
 resourcetype: Document
 title: Analytical model of a rope and karabiner system
 uid: 7b72f9fd-5525-6823-a1cf-c03ca42c14f7

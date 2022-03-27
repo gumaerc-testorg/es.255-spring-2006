@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a6983d23-967e-f354-721b-c9edd87ca561
 resourcetype: Document
 title: Rope Oscillation Model
 uid: 11184328-f64a-d8e1-9639-b52b2a07b2fa

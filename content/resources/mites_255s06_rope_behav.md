@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a6983d23-967e-f354-721b-c9edd87ca561
 resourcetype: Document
 title: Rope Behavior
 uid: 2ef66d72-577e-07d0-3a50-a0a7865fab6d

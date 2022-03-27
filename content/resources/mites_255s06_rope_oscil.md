@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a6983d23-967e-f354-721b-c9edd87ca561
 resourcetype: Document
 title: Rope Oscillation Experiment
 uid: 54f6b299-dcf0-7804-0680-cac3e1b31501

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a6983d23-967e-f354-721b-c9edd87ca561
 resourcetype: Document
 title: MITES_255S06_sp255ropbehv.pdf
 uid: 28c0d8ca-92d5-b3bd-c58f-3d54a63ba553

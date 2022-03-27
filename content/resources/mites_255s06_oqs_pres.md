@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a6983d23-967e-f354-721b-c9edd87ca561
 resourcetype: Document
 title: Physics of Rock Climbing Open Questions
 uid: 0088b367-35c5-2011-17d4-4a95bf978f07
