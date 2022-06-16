@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The projects section includes major student projects that were undertaken.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -11,6 +12,6 @@ Research projects are open ended and students are encouraged to determine their 
 
 Three major student projects were undertaken:
 
-*   A model of the propensity for a karabiner gate to open due to transverse oscillation of the rope during fall arrest. ([PDF]({{< baseurl >}}/resources/mites_255s06_analmdropkarys)) (Courtesy of Philippe Bertreau and Christopher Pipe. Used with permission.)
+*   A model of the propensity for a karabiner gate to open due to transverse oscillation of the rope during fall arrest. ({{% resource_link 7b72f9fd-5525-6823-a1cf-c03ca42c14f7 "PDF" %}}) (Courtesy of Philippe Bertreau and Christopher Pipe. Used with permission.)
 *   A measurement of the propensity for a karabiner gate to open due to transverse oscillation of the rope during fall arrest.
 *   An investigation of the change in tensile strength and elasticity of nylon fibers subjected to rope marking ink.
