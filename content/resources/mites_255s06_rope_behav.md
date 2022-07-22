@@ -5,6 +5,7 @@ file: /courses/es-255-physics-of-rock-climbing-spring-2006/2ef66d72577e07d03a50a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Rope Behavior
 uid: 2ef66d72-577e-07d0-3a50-a0a7865fab6d
 ---
 This file contains information regarding presentation
-

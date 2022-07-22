@@ -5,6 +5,7 @@ file: /courses/es-255-physics-of-rock-climbing-spring-2006/0088b36735c5201117d44
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Physics of Rock Climbing Open Questions
 uid: 0088b367-35c5-2011-17d4-4a95bf978f07
 ---
 This file contains information regarding presentation.
-
