@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding rope oscillation experiment.
 file: /courses/es-255-physics-of-rock-climbing-spring-2006/54f6b299dcf078040680cac3e1b31501_MITES_255S06_rope_oscil.pdf
+file_size: 179053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
