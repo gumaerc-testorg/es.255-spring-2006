@@ -28,7 +28,7 @@ Soles, Clyde. "[Climbing Ropes - UIAA Sharp Edge Certification](http://www.snews
 
 [*Panorama*](http://www.alpenverein.de/DAV-Services/Panorama-Magazin/Panorama-Archiv/) - The German Alpine Club's bi-monthly publication. July, 2004 and June, 2004 are about gym safety. (No English translation.)
 
-[*BergUndSteigen*](http://www.bergundsteigen.at/archiv.php) - A German language publication on managing risk in mountains, archives available without subscription. (No English translation.)
+[*BergUndSteigen*](https://www.bergundsteigen.com/) - A German language publication on managing risk in mountains, archives available without subscription. (No English translation.)
 
 [*Current Mountain Rescue Association Grant Awards*](https://mra.org/member-service/grant-information/current-grants/) - A number of relevant papers including:
 

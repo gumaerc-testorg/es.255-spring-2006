@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding presentation
-file: /ol-ocw-studio-app/courses/es-255-physics-of-rock-climbing-spring-2006/2ef66d72577e07d03a50a0a7865fab6d_MITES_255S06_rope_behav.pdf
+file: /courses/es-255-physics-of-rock-climbing-spring-2006/2ef66d72577e07d03a50a0a7865fab6d_MITES_255S06_rope_behav.pdf
 file_size: 885145
 file_type: application/pdf
 learning_resource_types:

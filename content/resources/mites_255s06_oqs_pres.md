@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding presentation.
-file: /ol-ocw-studio-app/courses/es-255-physics-of-rock-climbing-spring-2006/0088b36735c5201117d44a95bf978f07_MITES_255S06_oqs_pres.pdf
+file: /courses/es-255-physics-of-rock-climbing-spring-2006/0088b36735c5201117d44a95bf978f07_MITES_255S06_oqs_pres.pdf
 file_size: 560748
 file_type: application/pdf
 learning_resource_types:
