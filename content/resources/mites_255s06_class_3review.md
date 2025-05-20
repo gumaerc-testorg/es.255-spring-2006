@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding summary of discussion.
-file: /ol-ocw-studio-app/courses/es-255-physics-of-rock-climbing-spring-2006/4d6f045b159cfed8598504e97dfcd15b_MITES_255S06_class_3review.pdf
+file: /courses/es-255-physics-of-rock-climbing-spring-2006/4d6f045b159cfed8598504e97dfcd15b_MITES_255S06_class_3review.pdf
 file_size: 253748
 file_type: application/pdf
 learning_resource_types:
