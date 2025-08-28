@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding rope behavior.
-file: /courses/es-255-physics-of-rock-climbing-spring-2006/28c0d8ca92d5b3bdc58f3d54a63ba553_MITES_255S06_sp255ropbehv.pdf
+file: /ol-ocw-studio-app/courses/es-255-physics-of-rock-climbing-spring-2006/28c0d8ca92d5b3bdc58f3d54a63ba553_MITES_255S06_sp255ropbehv.pdf
 file_size: 1287428
 file_type: application/pdf
 learning_resource_types:
