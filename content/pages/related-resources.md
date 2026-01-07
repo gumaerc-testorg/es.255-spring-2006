@@ -10,32 +10,32 @@ uid: c0cd60b3-09e4-9698-59f0-6178e23998af
 ---
 ## Available on the Web
 
-{{% resource_link "3ff0e5da-9623-467e-b902-b2410b25bfc4" "UIAA (Union Internationale Des Associations D'Alpinisme) Standards" %}}
+[UIAA (Union Internationale Des Associations D'Alpinisme) Standards](https://www.theuiaa.org/safety-standards/)
 
-{{% resource_link "8cffa878-5539-4a8d-8fa2-7eb74dc36971" "Cam Shape" %}}
+[Cam Shape](http://web.mit.edu/custer/www/rocking/cams/cams.html)
 
-Attaway, Steve. "Rope System Analysis." ({{% resource_link "fbf5a633-a4ca-40ee-a41e-3009779cc40d" "PDF" %}})
+Attaway, Steve. "Rope System Analysis." ([PDF](http://www.jrre.org/ropes_101.pdf))
 
-Li, et al. "{{% resource_link "bd5c614f-6bee-4386-84e9-2cd4524ebe6c" "Use of 'chalk' in rock climbing" %}}." *Journal of Sports Sciences*.
+Li, et al. "[Use of 'chalk' in rock climbing](https://pubmed.ncbi.nlm.nih.gov/11411778/)." *Journal of Sports Sciences*.
 
-Pavier, Martyn. "{{% resource_link "3aadabdd-288b-418f-b9a0-bcee2610eefa" "Experimental and Theoretical Simulations of Climbing Falls" %}}."
+Pavier, Martyn. "[Experimental and Theoretical Simulations of Climbing Falls](http://personal.strath.ac.uk/andrew.mclaren/Pavier.pdf)."
 
-Soles, Clyde. "{{% resource_link "933d2f40-59e4-436e-bfda-2b06332bf674" "Climbing Ropes - UIAA Sharp Edge Certification" %}}."
+Soles, Clyde. "[Climbing Ropes - UIAA Sharp Edge Certification](http://www.snewsnet.com/news/web-extras-climbing-ropes-uiaa-sharp-edge-certification/)."
 
-"Equipment and its Applications." *UIAA Journal.* ({{% resource_link "318af629-b9a9-4a2d-9ac7-0827abb38898" "PDF - 2.8 MB" %}})
+"Equipment and its Applications." *UIAA Journal.* ([PDF - 2.8 MB](https://www.yumpu.com/en/document/read/22908972/equipment-and-its-application-equipment-and-its-application))
 
-{{% resource_link "b9ec6083-d392-46b2-8624-82a29d8662c6" "Journal of Sports Science and Medicine" %}}
+[Journal of Sports Science and Medicine](http://www.jssm.org/)
 
-{{% resource_link "390266d3-9758-4297-a17c-5ff27f4de7ed" "*Panorama*" %}} - The German Alpine Club's bi-monthly publication. July, 2004 and June, 2004 are about gym safety. (No English translation.)
+[*Panorama*](http://www.alpenverein.de/DAV-Services/Panorama-Magazin/Panorama-Archiv/) - The German Alpine Club's bi-monthly publication. July, 2004 and June, 2004 are about gym safety. (No English translation.)
 
-{{% resource_link "2c02ff17-5377-4a88-bb1d-9fe240ce5061" "*BergUndSteigen*" %}} - A German language publication on managing risk in mountains, archives available without subscription. (No English translation.)
+[*BergUndSteigen*](https://www.bergundsteigen.com/) - A German language publication on managing risk in mountains, archives available without subscription. (No English translation.)
 
-{{% resource_link "1fffc13e-f53c-4fe6-92f0-60a29864f947" "*Current Mountain Rescue Association Grant Awards*" %}} - A number of relevant papers including:
+[*Current Mountain Rescue Association Grant Awards*](https://mra.org/member-service/grant-information/current-grants/) - A number of relevant papers including:
 
-- Failure Modes of Snow Anchors, Part III ({{% resource_link "cf01fdf2-06b5-43cd-94da-4128d7910e74" "PDF - 1.0 MB" %}})
-- What Climbers Think ({{% resource_link "2482b85d-e984-437a-9c51-86bc9c6aaaa0" "PDF" %}})
-- Using Low Stretch Ropes ({{% resource_link "5bec339f-8273-4780-9dd7-331a8efb40e2" "PDF" %}})
-- How Far can you Trust your Belay Device? ({{% resource_link "95a2aeeb-222c-4a5c-8a62-144178af11ec" "PDF" %}})
+- Failure Modes of Snow Anchors, Part III ([PDF - 1.0 MB](http://www.itrsonline.org/PapersFolder/2005/Fortini2005_ITRSAbstract.pdf))
+- What Climbers Think ([PDF](http://mra.org/wp-content/uploads/2016/05/WhatClimbersThink.pdf))
+- Using Low Stretch Ropes ([PDF](http://www.itrsonline.org/PapersFolder/2005/SmithBlaine2005_ITRSAbstract.pdf))
+- How Far can you Trust your Belay Device? ([PDF](http://www.caves.org/section/vertical/nh/51/Hang_Em_High_Final.pdf))
 
 ## Available in Print
 
